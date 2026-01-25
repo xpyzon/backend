@@ -1,7 +1,7 @@
 {
   "latest_version": 19,
   "min_version": 15,
-  "update_url": "https://gofile.io/d/dOx1rA",
+  "update_url": "https://gofile.io/d/EURnCV",
   "force_update": false,
   "update_message": "New version available with bug fixes and improvements!",
 
@@ -20,8 +20,8 @@
   "daily_scan_limit": 50000,
 
   "welcome_message": "",
-  "footer_message": "Made with love by Pyzon AKA ToolzDaddy",
+  "footer_message": "Made with ❤️‍🩹 by Pyzon AKA ToolzDaddy",
 
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "App is under maintenance. Please try again later."
 }
