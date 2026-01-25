@@ -1,0 +1,27 @@
+{
+  "latest_version": 19,
+  "min_version": 15,
+  "update_url": "https://gofile.io/d/dOx1rA",
+  "force_update": false,
+  "update_message": "New version available with bug fixes and improvements!",
+
+  "show_announcement": false,
+  "announcement_title": "Welcome!",
+  "announcement_message": "Thanks for using FindChat!",
+  "announcement_url": "",
+
+  "enable_scheduled_scan": true,
+  "enable_contact_recovery": true,
+  "enable_profile_lookup": true,
+  "enable_export": true,
+
+  "max_threads": 100,
+  "max_numbers_per_scan": 10000,
+  "daily_scan_limit": 50000,
+
+  "welcome_message": "",
+  "footer_message": "Made with love by Pyzon AKA ToolzDaddy",
+
+  "maintenance_mode": false,
+  "maintenance_message": "App is under maintenance. Please try again later."
+}
