@@ -5,7 +5,7 @@
   "force_update": false,
   "update_message": "New version available with bug fixes and improvements!",
 
-  "show_announcement": false,
+  "show_announcement": true,
   "announcement_title": "Welcome!",
   "announcement_message": "Thanks for using FindChat!",
   "announcement_url": "",
