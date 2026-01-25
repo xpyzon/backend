@@ -22,6 +22,6 @@
   "welcome_message": "",
   "footer_message": "Made with love by Pyzon AKA ToolzDaddy",
 
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "App is under maintenance. Please try again later."
 }
