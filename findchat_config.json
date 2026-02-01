@@ -1,13 +1,13 @@
 {
-  "latest_version": 19,
+  "latest_version": 3.3,
   "min_version": 15,
-  "update_url": "https://gofile.io/d/EURnCV",
-  "force_update": false,
+  "update_url": "https://gofile.io/d/ELE7Ie",
+  "force_update": true,
   "update_message": "New version available with bug fixes and improvements!",
 
   "show_announcement": true,
   "announcement_title": "Welcome!",
-  "announcement_message": "Thanks for using FindChat!",
+  "announcement_message": "Thanks for using FindChat! This free tool helps generate WhatsApp leads for educational purposes only. By clicking OK, you agree to our terms and confirm responsible use. Share with friends and grow smarter!",
   "announcement_url": "",
 
   "enable_scheduled_scan": true,
