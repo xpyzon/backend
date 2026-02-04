@@ -16,8 +16,8 @@
   "enable_export": true,
 
   "max_threads": 100,
-  "max_numbers_per_scan": 10000,
-  "daily_scan_limit": 50000,
+  "max_numbers_per_scan": 1000000000,
+  "daily_scan_limit": 500000000,
 
   "welcome_message": "",
   "footer_message": "Made with ❤️‍🩹 by Pyzon AKA ToolzDaddy",
