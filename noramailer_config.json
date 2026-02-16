@@ -1,13 +1,13 @@
 {
   "latest_version": 3.3,
   "min_version": 1.0,
-  "update_url": "https://gofile.io/d/SXw1yq",
+  "update_url": "https://gofile.io/d/h8iNs2",
   "force_update": false,
   "update_message": "New version available with bug fixes and improvements!",
 
   "show_announcement": true,
   "announcement_title": "Welcome to Nora Mailer!",
-  "announcement_message": "Thanks for using Nora Mailer! This tool helps generate and verify Gmail addresses for email marketing purposes. By clicking OK, you agree to our terms and confirm responsible use. Share with friends and grow smarter!",
+  "announcement_message": "Thanks for using Nora Mailer! This tool helps generate and verify Gmail addresses for email marketing purposes. Features: Auto Gmail generator, SMTP verification, HTML emails, custom SMTP, inbox-hitting headers, auto unsubscribe. By clicking OK, you agree to our terms and confirm responsible use. Share with friends and grow smarter!",
   "announcement_url": "",
 
   "enable_auto_generate": true,
@@ -16,6 +16,10 @@
   "enable_contacts_save": true,
   "enable_bulk_send": true,
   "enable_verify_before_send": true,
+  "enable_html_email": true,
+  "enable_custom_smtp": true,
+  "enable_auto_unsubscribe": true,
+  "enable_gmail_oauth": true,
 
   "max_threads": 100,
   "max_emails_per_generate": 1000000000,
@@ -27,7 +31,7 @@
   "smtp_api_enabled": true,
 
   "welcome_message": "",
-  "footer_message": "Made with \u2764\uFE0F\u200D\uD83E\uDE79 by Pyzon AKA ToolzDaddy\uD83C\uDFF9",
+  "footer_message": "Made with ❤️‍🩹 by Pyzon AKA ToolzDaddy🏹",
 
   "developer_name": "Pyzon",
   "developer_alias": "ToolzDaddy",
