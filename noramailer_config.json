@@ -1,1 +1,38 @@
-hh
+{
+  "latest_version": 3.3,
+  "min_version": 1.0,
+  "update_url": "https://gofile.io/d/SXw1yq",
+  "force_update": false,
+  "update_message": "New version available with bug fixes and improvements!",
+
+  "show_announcement": true,
+  "announcement_title": "Welcome to Nora Mailer!",
+  "announcement_message": "Thanks for using Nora Mailer! This tool helps generate and verify Gmail addresses for email marketing purposes. By clicking OK, you agree to our terms and confirm responsible use. Share with friends and grow smarter!",
+  "announcement_url": "",
+
+  "enable_auto_generate": true,
+  "enable_manual_generate": true,
+  "enable_smtp_verify": true,
+  "enable_contacts_save": true,
+  "enable_bulk_send": true,
+  "enable_verify_before_send": true,
+
+  "max_threads": 100,
+  "max_emails_per_generate": 1000000000,
+  "daily_generate_limit": 500000000,
+  "max_recipients_per_send": 1000000000,
+  "daily_send_limit": 500000000,
+
+  "smtp_api_url": "https://proofs.icu/noramailer.php",
+  "smtp_api_enabled": true,
+
+  "welcome_message": "",
+  "footer_message": "Made with \u2764\uFE0F\u200D\uD83E\uDE79 by Pyzon AKA ToolzDaddy\uD83C\uDFF9",
+
+  "developer_name": "Pyzon",
+  "developer_alias": "ToolzDaddy",
+  "app_name": "Nora Mailer",
+
+  "maintenance_mode": false,
+  "maintenance_message": "App is under maintenance. Please try again later."
+}
