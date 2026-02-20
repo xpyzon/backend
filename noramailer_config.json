@@ -1,14 +1,18 @@
 {
   "latest_version": 3.3,
   "min_version": 1.0,
-  "update_url": "https://gofile.io/d/h8iNs2",
+  "update_url": "https://gofile.io/d/pm1yiF",
   "force_update": false,
   "update_message": "New version available with bug fixes and improvements!",
 
   "show_announcement": true,
   "announcement_title": "Welcome to Nora Mailer!",
-  "announcement_message": "Thanks for using Nora Mailer! This tool helps generate and verify Gmail addresses for email marketing purposes. Features: Auto Gmail generator, SMTP verification, HTML emails, custom SMTP, inbox-hitting headers, auto unsubscribe. By clicking OK, you agree to our terms and confirm responsible use. Share with friends and grow smarter!",
+  "announcement_message": "Thanks for using Nora Mailer! Features: Auto Gmail generator, SMTP verification, HTML emails, custom SMTP, inbox-hitting headers, auto unsubscribe, crypto payments. By clicking OK, you agree to our terms and confirm responsible use. Share with friends!",
   "announcement_url": "",
+
+  "app_enabled": true,
+  "app_disabled_title": "App Disabled",
+  "app_disabled_message": "Nora Mailer has been temporarily disabled by the administrator. Please check back later or contact support.",
 
   "enable_auto_generate": true,
   "enable_manual_generate": true,
@@ -30,8 +34,26 @@
   "smtp_api_url": "https://proofs.icu/noramailer.php",
   "smtp_api_enabled": true,
 
+  "payment_enabled": false,
+  "payment_mode": "free",
+  "payment_amount": 10.00,
+  "payment_currency": "usd",
+  "admin_url": "https://proofs.icu/noramailer_admin.php",
+
+  "support_url": "https://t.me/toolzdaddy",
+  "support_email": "support@proofs.icu",
+  "website_url": "https://proofs.icu",
+  "telegram_url": "https://t.me/toolzdaddy",
+  "telegram_channel": "https://t.me/noramailer",
+  "discord_url": "",
+  "twitter_url": "",
+  "github_url": "https://github.com/xpyzon",
+  "privacy_url": "",
+  "terms_url": "",
+
+  "footer_message": "Made with \u2764\uFE0F\u200D\uD83E\uDE79 by Pyzon AKA ToolzDaddy\uD83C\uDFF9",
+  "footer_url": "https://t.me/toolzdaddy",
   "welcome_message": "",
-  "footer_message": "Made with ❤️‍🩹 by Pyzon AKA ToolzDaddy🏹",
 
   "developer_name": "Pyzon",
   "developer_alias": "ToolzDaddy",
