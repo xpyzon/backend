@@ -1,9 +1,9 @@
 {
   "latest_version": 1
-0,
+01,
   "min_version": 1.0,
-  "update_url": "https://gofile.io/d/UJEaDz",
-  "force_update": false,
+  "update_url": "https://gofile.io/d/3kJym0",
+  "force_update": true,
   "update_message": "New version available with bug fixes and improvements!",
 
   "show_announcement": true,
