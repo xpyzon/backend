@@ -1,14 +1,13 @@
 {
-  "latest_version": 1
-0.1,
+  "latest_version": 1.0.1,
   "min_version": 1.0,
-  "update_url": "https://gofile.io/d/G0qRBe",
+  "update_url": "https://gofile.io/d/fWLzRM",
   "force_update": true,
   "update_message": "New version available with bug fixes and improvements!",
 
   "show_announcement": true,
   "announcement_title": "Welcome to Nora Mailer!",
-  "announcement_message": "Thanks for using Nora Mailer! Features: Auto Gmail generator, SMTP verification, HTML emails, custom SMTP, inbox-hitting headers, auto unsubscribe, crypto payments. By clicking OK, you agree to our terms and confirm responsible use. Share with friends!!",
+  "announcement_message": "Thanks for using Nora Mailer! Features: Auto Gmail generator, SMTP verification, HTML emails, custom SMTP, inbox-hitting headers, auto unsubscribe, crypto payments. By clicking OK, you agree to our terms and confirm responsible use. Share with friends!",
   "announcement_url": "",
 
   "app_enabled": true,
