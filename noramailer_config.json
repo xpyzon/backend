@@ -1,7 +1,7 @@
 {
-  "latest_version": 1.0.2,
-  "min_version": 1.0.1,
-  "update_url": "https://gofile.io/d/fWLzRM",
+  "latest_version": 1.0.1,
+  "min_version": 1.0,
+  "update_url": "https://gofile.io/d/IAM4Zx",
   "force_update": true,
   "update_message": "New version available with bug fixes and improvements!",
 
@@ -53,7 +53,7 @@
 
   "footer_message": "Made with \u2764\uFE0F\u200D\uD83E\uDE79 by Pyzon AKA ToolzDaddy\uD83C\uDFF9",
   "footer_url": "https://t.me/toolzdaddy",
-  "welcome_message": "",
+  "welcome_message": "Welcome to Nora Mailer! Auto-generate Gmail addresses, verify inbox deliverability via SMTP, and send bulk emails with smart account rotation. Enjoy!",
 
   "developer_name": "Pyzon",
   "developer_alias": "ToolzDaddy",
